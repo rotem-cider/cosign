@@ -1079,8 +1079,8 @@ github.com/onsi/gomega v1.9.0/go.mod h1:Ho0h+IUsWyvy1OpqCwxlQ/21gkhVunqlU8fDGcoT
 github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
 github.com/onsi/gomega v1.10.5/go.mod h1:gza4q3jKQJijlu05nKWRCW/GavJumGt8aNRxWg7mt48=
 github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
-github.com/open-policy-agent/opa v0.29.3 h1:LdWbHPpV/iOYWXNAG19nl0Xlum4I4Kks3FSMjy2EcPk=
-github.com/open-policy-agent/opa v0.29.3/go.mod h1:ZCOTD3yyFR8JvF8ETdWdiSPn9WcF1dXeQWOv7VoPorU=
+github.com/open-policy-agent/opa v0.29.4 h1:rNa/Gd3Fs0xWgL0aZoyblRwCZLJsSLDQOhnck6DWpaA=
+github.com/open-policy-agent/opa v0.29.4/go.mod h1:ZCOTD3yyFR8JvF8ETdWdiSPn9WcF1dXeQWOv7VoPorU=
 github.com/opencontainers/go-digest v0.0.0-20180430190053-c9281466c8b2/go.mod h1:cMLVZDEM3+U2I4VmLI6N8jQYUd2OVphdqWwCJHrFt2s=
 github.com/opencontainers/go-digest v1.0.0-rc1/go.mod h1:cMLVZDEM3+U2I4VmLI6N8jQYUd2OVphdqWwCJHrFt2s=
 github.com/opencontainers/go-digest v1.0.0 h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=
@@ -1244,8 +1244,8 @@ github.com/sigstore/rekor v0.1.2-0.20210514231425-7e3d950f34c6/go.mod h1:3q5eM6+
 github.com/sigstore/rekor v0.1.2-0.20210519014330-b5480728bde6 h1:i2JW972EVgp7QBy18MObuRsixWznaC1G+sett9t9Fks=
 github.com/sigstore/rekor v0.1.2-0.20210519014330-b5480728bde6/go.mod h1:RXi1E+oCIFTKmJQxSGJMLQXB3/+kzpFhrUYXMCNiGHM=
 github.com/sigstore/sigstore v0.0.0-20210415112811-cb2061113e4a/go.mod h1:EoLIp5JbrCE2VZqdCCIemNEdNYiOcdwF0igIvorqo1o=
-github.com/sigstore/sigstore v0.0.0-20210522133621-faee93288971 h1:czUq0do7PUogI1O1kEH4uJNdNHSp8SCrFGHOLgMD2+w=
-github.com/sigstore/sigstore v0.0.0-20210522133621-faee93288971/go.mod h1:0vz3m+D9st0Quc4WVqLQFo5pKTDrdH0j4dithJhtLsc=
+github.com/sigstore/sigstore v0.0.0-20210530211317-99216b8b86a6 h1:GS/+79XAjNnddSpFO+G5xNWCsY2mSJ9S0QCTh7sVN3E=
+github.com/sigstore/sigstore v0.0.0-20210530211317-99216b8b86a6/go.mod h1:0vz3m+D9st0Quc4WVqLQFo5pKTDrdH0j4dithJhtLsc=
 github.com/sirupsen/logrus v1.0.4-0.20170822132746-89742aefa4b2/go.mod h1:pMByvHTf9Beacp5x1UXfOR9xyW/9antXMhjMPG0dEzc=
 github.com/sirupsen/logrus v1.0.5/go.mod h1:pMByvHTf9Beacp5x1UXfOR9xyW/9antXMhjMPG0dEzc=
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=

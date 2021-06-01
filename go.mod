@@ -16,13 +16,13 @@ require (
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/magiconair/properties v1.8.5 // indirect
 	github.com/manifoldco/promptui v0.8.0
-	github.com/open-policy-agent/opa v0.29.3
+	github.com/open-policy-agent/opa v0.29.4
 	github.com/pelletier/go-toml v1.9.1 // indirect
 	github.com/peterbourgon/ff/v3 v3.0.0
 	github.com/pkg/errors v0.9.1
 	github.com/sigstore/fulcio v0.0.0-20210405115948-e7630f533fca
 	github.com/sigstore/rekor v0.1.2-0.20210519014330-b5480728bde6
-	github.com/sigstore/sigstore v0.0.0-20210522133621-faee93288971
+	github.com/sigstore/sigstore v0.0.0-20210530211317-99216b8b86a6
 	github.com/spf13/afero v1.6.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/theupdateframework/go-tuf v0.0.0-20201230183259-aee6270feb55
